@@ -1,0 +1,16 @@
+/* Write your code here. */
+.small-container{
+    height: 100px;
+    width: 100px;
+    background-color: #fbbf24;
+}
+.medium-container{
+    height: 200px;
+    width: 200px;
+    background-color: #38bdf8;
+}
+.large-container{
+    height: 300px;
+    width: 300px;
+    background-color: #ec4899;
+}
